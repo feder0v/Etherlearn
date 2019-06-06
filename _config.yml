@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          EtherLearn
+description:    "Tutorial Ethereum Bahasa Indonesia"
+baseurl:        "/etherlearn"
+url:            "https://feder0v.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         feder0v
+  url:          https://feder0v.github.io
+  email:        feder0v@teknik.io
 
 # Build settings
 markdown:       kramdown
