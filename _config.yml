@@ -1,7 +1,7 @@
 # Site settings
-title:          EtherLearn
+title:          ETH Learn
 description:    "Tutorial Ethereum Bahasa Indonesia"
-baseurl:        "/etherlearn"
+baseurl:        "/ethlearn"
 url:            "https://feder0v.github.io"
 
 # Google Analytics
